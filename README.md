@@ -30,7 +30,7 @@
 
 <div>
 <p>Essas são minhas redes, vamos conversar!</p>
-<a href="https://www.whatsapp.queridopublicitario.com.br/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href="https://whatsapp.queridopublicitario.com.br/github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 <a href="https://www.queridopublicitario.com.br/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 <a href="https://www.behance.net/leo-monteiro" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/leo.nardomonteiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405f?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
