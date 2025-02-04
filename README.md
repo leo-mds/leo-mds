@@ -1,6 +1,6 @@
 ### Hey, eu sou o Léo. 👋
 
-- 🔭 Hoje trabalho em uma transportadora como Assistente de Marketing;
+- 🚛 Hoje trabalho em uma transportadora como Assistente de Marketing;
 - 🔭 Já trabalhei para agências de Publicidade e Propaganda atendendo diversos nichos do mercado;
 - 🌱 Atuo na área de Design, Audiovisual, Marketing, Tráfego Pago, Social Media, Lançamentos e Gestão de processos;
 - 📫 Estou me aperfeiçoando em UX e UI Design para design de interfaces com Wordpress, Figma e Framer;
